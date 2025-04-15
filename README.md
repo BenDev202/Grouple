@@ -107,10 +107,9 @@ See the [LICENSE](LICENSE) file for details.
 For questions, feedback, or support:
 
 - **GitHub Issues**: [Submit an issue](https://github.com/BenDev202/Grouple/issues)
-- **Email**: [bendev2025@gmail.com](mailto:bendev2025@gmail.com)
+- **Email**: [armandbenjamin30@gmail.com](mailto:armandbenjamin30@gmail.com)
 - **Twitter/X**: [@BenDev202](https://twitter.com/BenDev202)
 
 ---
 
-> Made with ❤️ by Benjamin and the Grouple contributors.
-```
+> Made with ❤️ by Armand Benjamin and the Grouple contributors.
