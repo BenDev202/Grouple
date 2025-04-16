@@ -21,9 +21,9 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider>
-      <html lang="en">
+      <html lang="en" suppressHydrationWarning>
         <body
-          className={jakarta.className}
+          className={`${jakarta.className} bg-black`}
         >
           <ThemeProvider
           attribute="class"

@@ -1,115 +1,36 @@
-# 🏠 Grouple
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Grouple is a collaborative platform designed to bring people together through shared interests, projects, and communities. Whether you're a developer, student, or enthusiast, Grouple makes it easy to create, join, and manage purpose-driven groups with seamless communication and organization tools.
+## Getting Started
 
----
+First, run the development server:
 
-## 🚀 Project Description
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-**Grouple** enables users to:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- Create or join communities focused on specific topics or goals.
-- Collaborate in real-time through group features.
-- Manage group members, discussions, and shared content.
-- Foster a sense of belonging and productivity across teams.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project is open-source and designed with scalability, responsiveness, and simplicity in mind.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
----
+## Learn More
 
-## 🛠️ Technologies Used
+To learn more about Next.js, take a look at the following resources:
 
-- **React** — Frontend UI Library
-- **TypeScript** — For type safety
-- **Tailwind CSS** — Utility-first styling framework
-- **Redux Toolkit** — For state management
-- **React Router** — For client-side routing
-- **Uploadcare** — For Uplading File
-- **Clerk** — Auth Forms
-- **Prisma** —  database for data
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## 📦 Installation
+## Deploy on Vercel
 
-Follow these steps to set up the project locally:
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/BenDev202/Grouple.git
-   cd Grouple
-   ```
-
-2. **Install dependencies using pnpm**
-   ```bash
-   pnpm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   pnpm dev
-   ```
-
-4. **Open your browser and navigate to:**
-   ```
-   http://localhost:5173
-   ```
-
----
-
-## 📋 Usage
-
-Once the app is running locally:
-
-- ✅ **Sign Up or Log In** to your account.
-- 🧠 **Create or Join Groups** based on your interests.
-- 💬 **Collaborate** by sharing updates, chatting, or organizing tasks.
-- 🔧 **Manage Group Settings** like membership and permissions.
-
-This platform is currently under active development, with new features added regularly.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community!
-
-### To contribute:
-
-1. Fork the repository
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push to your fork:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a Pull Request
-
-Please follow our Code of Conduct and ensure your changes follow our contribution guidelines.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-For questions, feedback, or support:
-
-- **GitHub Issues**: [Submit an issue](https://github.com/BenDev202/Grouple/issues)
-- **Email**: [armandbenjamin30@gmail.com](mailto:armandbenjamin30@gmail.com)
-- **Twitter/X**: [@BenDev202](https://twitter.com/BenDev202)
-
----
-
-> Made with ❤️ by Armand Benjamin and the Grouple contributors.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
